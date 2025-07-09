@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Sunny
+Full-Stack Developer | Laravel & Vue.js Specialist | Tech Enthusiast
 
-<!--
-**sunnyMuhammad/sunnyMuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a passionate Full-Stack Developer, I specialize in crafting dynamic, high-performance web applications with a focus on seamless user experiences. I love solving real-world problems with elegant and scalable solutions.
 
-Here are some ideas to get you started:
+💼 My Expertise
+Backend: PHP, Laravel
+Frontend: Vue.js, Inertia.js, Tailwind CSS, Bootstrap
+Databases: MySQL, SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Why Work With Me?
+✅ Clean, scalable, and maintainable code
+✅ Focused on performance and user experience
+✅ Strong communication and on-time delivery
+✅ Passion for learning and solving problems
+📫 Let's Connect
+I'm always open to exciting ideas, collaborations, and interesting projects.
+Reach out to me:
+
+LinkedIn
+Twitter
+Facebook
+
+Thanks for visiting my profile. Let’s build something awesome together!
