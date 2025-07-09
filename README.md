@@ -27,9 +27,13 @@ DevOps & Deployment:cPanel
 💡 Why Work With Me? 
 
 ✅ Clean, scalable, and maintainable code
+
 ✅ Focused on performance and user experience
+
 ✅ Strong communication and on-time delivery
+
 ✅ Passion for learning and solving problems
+
 📫 Let's Connect
 I'm always open to exciting ideas, collaborations, and interesting projects.
 Reach out to me:
