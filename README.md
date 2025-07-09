@@ -24,7 +24,8 @@ Frontend: Vue.js, Inertia.js, Tailwind CSS, Bootstrap
 Databases: MySQL, SQLite
 DevOps & Deployment:cPanel
 
-💡 Why Work With Me?
+💡 Why Work With Me? 
+
 ✅ Clean, scalable, and maintainable code
 ✅ Focused on performance and user experience
 ✅ Strong communication and on-time delivery
